@@ -21,7 +21,7 @@ Clean, responsive interface with Streamlit.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/chat-with-pdfs.git
+git clone https://github.com/Manaskhurana/Python-Multiple-PDF-Chat-Bot.git
 cd chat-with-pdfs
 
 
